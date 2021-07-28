@@ -12,4 +12,3 @@
 - Atomic CSS (Tham khảo thư viện Basscss, TailwindCSS)
 * Responsive Web Design"
 **Issues**
-- None
