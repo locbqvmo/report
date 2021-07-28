@@ -3,6 +3,13 @@
 **Topic you have learnt**
 Insert what you have learnt about the topic here
 
-```js
-const yourCode = "lorem ipsum";
-```
+HTML:
+Semantic Html(70%)
+Html Accessibility(30%)
+
+CSS:
+Flexbox(80%)
+Atomic CSS (Tham khảo thư viện Basscss, TailwindCSS)(60%)
+
+**Issues**
+none
