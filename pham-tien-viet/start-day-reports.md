@@ -7,8 +7,9 @@
 **Today**
 - Semantic Html (70%)
 - Html Accessibility (50%)
-- Git command
-- Github
+
+
+
 **Issues**
 
 # === DAILY REPORT 29/07 ===
