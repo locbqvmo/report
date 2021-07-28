@@ -2,13 +2,12 @@
 
 ## Pham Ngoc Chien 28/07
 
-**Yesterday**
-
 **Today**
 
-- Semantic Html (70%)
-- Html Accessibility (50%)
-- Github Command
+- Semantic Html (90%)
+- Html Accessibility (70%)
+- Github Command (50%)
+- Flexbox (80%)
 
 **Issues**
 
