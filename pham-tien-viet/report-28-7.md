@@ -8,6 +8,7 @@
 HTML:
 - Semantic Html (70%)
 - Html Accessibility (50%) 
-- Github
+Github :
+- Command
 
 **Issues**
