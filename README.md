@@ -10,7 +10,7 @@
 
 - Clone the project to your machine using SSH key
 - Create a branch for you using your name. For example, your name is Nguyen Van A, therefore your branch will be nguyen-van-a
-- At the start of the day, everyone has to write their report into the file `start-day-reports.md`, commit your change and push to your own branch. After that, create a Pull Request on github to the branch `main`. If there is no conflict, feel free to merge. If there is any conflicts, you have to resolve the conflicts first. My advice is to pull from branch `main` first before push it to your branch, and then create a Pull Request.
+- At the start of the day, everyone has to write their report into the file `start-day-reports.md`, commit your change and push to your own branch. After that, create a Pull Request on github to the branch `master`. If there is no conflict, feel free to merge. If there is any conflicts, you have to resolve the conflicts first. My advice is to pull from branch `master` first before push it to your branch, and then create a Pull Request.
 - Each person will create a folder according yo your name and create md files for end of the day reports
 
 ```
