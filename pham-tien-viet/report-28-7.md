@@ -5,8 +5,8 @@
 **Yesterday**
 
 **Today**
-HTML:
 - Semantic Html (70%)
-- Html Accessibility (50%)
+- Html Accessibility (50%) 
+- Github Command 
 
 **Issues**
