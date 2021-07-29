@@ -4,8 +4,8 @@
 **Today**
 
 * HTML:
-- Semantic Html
-- Html Accessibility
+- Semantic Html (80%)
+- Html Accessibility (60%)
 * CSS:
 - Flexbox
 - Atomic CSS (Tham khảo thư viện Basscss, TailwindCSS)
