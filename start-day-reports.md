@@ -4,6 +4,7 @@
 
 
 **Today**
+ - Continue to learn and read the material
 * HTML:
 - Semantic Html
 - Html Accessibility
