@@ -81,3 +81,29 @@
 **Issues**
 
 - None
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- HTML:
+
+* Semantic Html(70%)
+* Html Accessibility(30%)
+
+- CSS:
+
+* Flexbox(35%)
+* Atomic CSS (Tham khảo thư viện Basscss, TailwindCSS)(50%)
+
+**Today**
+
+- HTML:
+
+* Semantic Html
+* Html Accessibility
+
+- CSS:
+
+* Flexbox
+* Atomic CSS (Tham khảo thư viện Basscss, TailwindCSS)
