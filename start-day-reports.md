@@ -30,4 +30,26 @@
 **Today**
 **Issues**
 
+## Vu Hai Nam
+**Yesterday**
+
+* HTML:
+- HTML Semantic (50%)
+- HTML Accessibility (0)
+
+* CSS:
+- Flexbox (50%)
+- Atomic CSS (0)
+- Responsive Web Design (30%)
+
+* Issues:
+- Met problem in using Github (resolved)
+
+**Today**
+- HTML Semantic
+- HTML Accessibility
+- CSS Flexbox
+- Atomic CSS
+- Responsive Web Design 
+
 
