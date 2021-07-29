@@ -51,7 +51,7 @@
 - CSS:
 
 * Flexbox (50%)
-* Atomic CSS (20%)
+* Atomic CSS (30%)
 * Responsive Web Design (0)
 
 **Issues**

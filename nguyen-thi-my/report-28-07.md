@@ -26,4 +26,4 @@ HTML Semantic is a way of writing HTML that uses HTML tags according to the cont
   Give users a good way to navigate and interact with your site. Make your HTML code as semantic as possible
 
   Semantic HTML doesn't take much of your time. If you do it consistently from the start it will give you a few extra benefits:Good for SEO,Good for mobile devices,Easier to develop.
-  
+  Content Text 
