@@ -14,7 +14,7 @@
 ==================================
 # === DAILY REPORT 29/07 ===
 
-## Pham Tien Viet 28/07
+## Pham Tien Viet 29/07
 
 **Yesterday**
 - Semantic Html (70%)
