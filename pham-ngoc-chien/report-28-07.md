@@ -8,7 +8,7 @@
 
   - Semantic element clearly describes its meaning to both the browser and the developer.
   - Sometimes using the tag element, you won't have the attribute which you need.
-  - Because instead of using <div>, we can use <article>, <aside>,<details>,<figcaption>,<figure>,<footer>,<header>,<main>,<mark>,<nav>,<section>,<summary>,<time>,...
+  - Because instead of using div, we can use article, aside ,details ,figcaption ,figure ,footer ,header ,main ,mark ,nav ,section ,summary ,time ,...
 
 - Html Accessibility (50%):
 
