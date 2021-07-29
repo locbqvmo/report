@@ -5,26 +5,26 @@ Semantic Element :
 
 > The `<footer>` HTML element represents a footer for its nearest sectioning content or sectioning root element. A `<footer>` typically contains information about the author of the section, copyright data or links to related documents.
 > ex :
-    <footer>
+`    <footer>
         <p>VMO 2021</p>
-    </footer>
+    </footer>`
 
 > The `<header>` HTML element represents introductory content, typically a group of introductory or navigational aids. It may contain some heading elements but also a logo, a search form, an author name, and other elements.
 > ex :
-    <header >
+`    <header >
         <h1>Cute Puppies Express!</h1>
-    </header>
+    </header>`
 
 > The `<body>` HTML element represents the content of an HTML document. There can be only one `<body>` element in a document.
 > ex : 
-    <html>
+`    <html>
     <head>
         <title>Document title</title>
     </head>
     <body>
         <p>This is a paragraph</p>
     </body>
-    </html>
+    </html>`
 
 Html Accessibility :  HTML elements should use for their intended purpose as much as possible.
 **CSS** 
