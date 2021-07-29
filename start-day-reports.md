@@ -31,6 +31,7 @@
 ## Nguyen Thi My
 
 **Yesterday**
+
 - HTML:
 
 * HTML Semantic (60%)
@@ -43,10 +44,11 @@
 * Responsive Web Design (0)
 
 **Today**
+
 - HTML:
 
-* HTML Semantic 
-* HTML Accessibility 
+* HTML Semantic
+* HTML Accessibility
 
 - CSS:
 
@@ -55,7 +57,9 @@
 * Responsive Web Design (0)
 
 **Issues**
-- None 
+
+- None
+
 ## Vu Hai Nam
 
 **Yesterday**
@@ -116,7 +120,7 @@
 - CSS:
 
 * Flexbox(35%)
-* Atomic CSS (Tham khảo thư viện Basscss, TailwindCSS)(50%)
+* Atomic CSS
 
 **Today**
 
@@ -128,4 +132,4 @@
 - CSS:
 
 * Flexbox
-* Atomic CSS (Tham khảo thư viện Basscss, TailwindCSS)
+* Atomic CSS
