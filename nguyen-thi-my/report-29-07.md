@@ -45,11 +45,11 @@
     .flex-container {
         display: flex;
         flex-wrap: nowrap;
-    }
+     }
     The nowrap value specifies that the flex items will not wrap this is default
 
     .flex-container {
         display: flex;
         flex-wrap: wrap-reverse;
-    }   
+     }   
     The wrap-reverse value specifies that the flexible items will wrap if necessary, in reverse orde
