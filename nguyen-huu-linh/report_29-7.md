@@ -29,7 +29,7 @@
 
 **CSS**
 
-**_Flexbox(35%)_**
+**_Flexbox(50%)_**
 
 **Flexbox Container Properties:**
 
