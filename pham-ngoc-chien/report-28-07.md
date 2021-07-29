@@ -13,7 +13,7 @@
 - Html Accessibility (50%):
 
   - When use Html Accessibility for web page element, they also have some benefit
-  - Built-in keyboard accessibility, Clickable element (example: <button> instead of <div>)
+  - Built-in keyboard accessibility, Clickable element (example: button instead of div)
   - One of the best accessibility aids a screen reader user can have is an excellent content structure with headings, paragraphs, lists,..
   - Clear language: it benefits readers for whom the text is not written in their first language
   - Page layouts, UI controls, Accessible data tables, Text alternatives, Form label, Images... Use will be better.
