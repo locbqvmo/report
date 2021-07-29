@@ -31,9 +31,31 @@
 ## Nguyen Thi My
 
 **Yesterday**
-**Today**
-**Issues**
+- HTML:
 
+* HTML Semantic (60%)
+* HTML Accessibility (60%)
+
+- CSS:
+
+* Flexbox (0)
+* Atomic CSS (0)
+* Responsive Web Design (0)
+
+**Today**
+- HTML:
+
+* HTML Semantic 
+* HTML Accessibility 
+
+- CSS:
+
+* Flexbox (50%)
+* Atomic CSS (20%)
+* Responsive Web Design (0)
+
+**Issues**
+- None 
 ## Vu Hai Nam
 
 **Yesterday**
