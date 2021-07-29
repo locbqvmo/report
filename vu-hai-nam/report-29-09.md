@@ -19,14 +19,11 @@
 
     ### Semantic HTML:
     
-    - With **<header>, <main>, <footer>, <section>, <table>, <form>** are really helpful for screen reader. Or we can use **role** global attribute for **<div>** tag in order tell to screen reader the pupose of this tag like **<div role="form">** 
+    - With **\<header\>, \<main\>, \<footer\>, \<section\>, \<table\>, \<form\>** are really helpful for screen reader. Or we can use **role** global attribute for **\<div\>** tag in order tell to screen reader the pupose of this tag like **\<div role="form"\>** 
 
     ### Color Contrast
 
     - There are many color standards, but the easiest one that we can apply is to not just use color to represent the state of button, always add some text. For instance, for switch button, just add some text like ON/OFF instead of just using colors.
-
-
-*** 
 
 ## CSS
 
@@ -65,45 +62,47 @@
     * Display clearly elements (images, font size, button, ...)
     * Hide/Show elements according to the screen size.
 
-    ### Application
+### Application
 
-    - Using **@meida** to limit the size screen. **@media** is a property or keyword that help we to select the size of screen and style for this size. For examp, we want to **<h1>** tag will have red color at PC, and have green color at Table.
+- Using **@meida** to limit the size screen. **@media** is a property or keyword that help we to select the size of screen and style for this size. For examp, we want to **<h1>** tag will have red color at PC, and have green color at Table.
 
-    ```CSS
-        /* 1240px for PC high resolution */
-        @media (min-width: 1240px) {
-            h1 {
-                color: red;
-            }
+```CSS
+    /* 1240px for PC high resolution */
+    @media (min-width: 1240px) {
+        h1 {
+            color: red;
         }
+    }
 
-        /* 740px to 1239 for Table and PC low resolution */
-        @media (min-width: 740px) and (max-width: 1239px) {
-            h1 {
-                color: green;
-            }
+    /* 740px to 1239 for Table and PC low resolution */
+    @media (min-width: 740px) and (max-width: 1239px) {
+        h1 {
+            color: green;
         }
-    ```
+    }
+```
 
-    - Here we have **min-width** and **max-width** is a media features help us to select the specific size, **and** is a keywords that will select two features or clasue. Besides of that, in order change and style the size we need to add **<meta>** tag inside **<header>** tag in html file, like this:
-    ```html
+- Here we have **min-width** and **max-width** is a media features help us to select the specific size, **and** is a keywords that will select two features or clasue. Besides of that, in order change and style the size we need to add **\<meta\>** tag inside **\<header\>** tag in html file, like this:
+    
+```html
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    ```
-    This gives the browser instructions on how to control the page's dimensions and scaling.
+```
+    
+This gives the browser instructions on how to control the page's dimensions and scaling.
 
-    - There are some other definitions that we need to mention like:
-        1. **keywords**: 
-            * not 
-            * and
-            * only
-            * or
-        2.  **media types**:
-            * print
-            * screen
-            * all
-        3.  **Breakpoint**
-            * is a point, or size that will make the web's layout change or adapts to create responsive display
-        4.  **Polyfill**
-            * Help devs can be able to use media query with old browser like IE (6-9)
+- There are some other definitions that we need to mention like:
+    1. **keywords**: 
+        * not 
+        * and
+        * only
+        * or
+    2.  **media types**:
+        * print
+        * screen
+        * all
+    3.  **Breakpoint**
+        * is a point, or size that will make the web's layout change or adapts to create responsive display
+    4.  **Polyfill**
+        * Help devs can be able to use media query with old browser like IE (6-9)
 
 - Atomic CSS (0)
