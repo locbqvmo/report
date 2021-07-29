@@ -42,4 +42,9 @@
         flex-wrap: wrap;
     }
     The wrap value specifies that the flex items will wrap if necessary
+    .flex-container {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    The nowrap value specifies that the flex items will not wrap this is default
   
