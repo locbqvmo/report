@@ -52,9 +52,9 @@
 
 - CSS:
 
-* Flexbox (50%)
-* Atomic CSS (30%)
-* Responsive Web Design (0)
+* Flexbox 
+* Atomic CSS 
+* Responsive Web Design
 
 **Issues**
 
@@ -149,6 +149,38 @@
 
 - Atomic CSS (taiwind CSS)
 - Responsive Web Design
+
+**Issues**
+
+- None
+
+## Nguyen Thi My
+
+**Yesterday**
+
+- HTML:
+
+* HTML Semantic (70%)
+* HTML Accessibility (70%)
+
+- CSS:
+
+* Flexbox (50%)
+* Atomic CSS (30%)
+* Responsive Web Design (0)
+
+**Today**
+
+- HTML:
+
+* HTML Semantic
+* HTML Accessibility
+
+- CSS:
+
+* Flexbox 
+* Atomic CSS
+* Responsive Web Design (0)
 
 **Issues**
 
