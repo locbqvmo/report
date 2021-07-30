@@ -187,7 +187,7 @@ None
 - CSS:
 
 * Flexbox (50%)
-* Atomic CSS (30%)
+* Atomic CSS (25%)
 * Responsive Web Design (0)
 
 **Today**
@@ -201,11 +201,8 @@ None
 
 * Flexbox 
 * Atomic CSS
-* Responsive Web Design (0)
+* Responsive Web Design 
 
-**Issues**
-
-- None
 
 # Pham Tien Viet
 
