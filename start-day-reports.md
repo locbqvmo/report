@@ -159,21 +159,21 @@
 
 -- HTML:
 
-Semantic Html(100%)
-Html Accessibility(60%)
-CSS:
--Flexbox(50%)
+* Semantic Html(100%)
+* Html Accessibility(60%)
+- CSS:
+* Flexbox(50%)
 
-Atomic CSS (taiwind CSS)(10%)
+* Atomic CSS (taiwind CSS)(10%)
  **Today**
 
-Html Accessibility
-Flexbox
-Atomic CSS (taiwind CSS)
-Responsive Web Design
-Issues
+* Html Accessibility
+* Flexbox
+* Atomic CSS (taiwind CSS)
+* Responsive Web Design
+* Issues
 
-None
+- None
 
 ## Nguyen Thi My
 
@@ -189,6 +189,9 @@ None
 * Flexbox (50%)
 * Atomic CSS (25%)
 * Responsive Web Design (0)
+
+  **Issues**
+- None
 
 **Today**
 
