@@ -52,8 +52,8 @@
 
 - CSS:
 
-* Flexbox 
-* Atomic CSS 
+* Flexbox
+* Atomic CSS
 * Responsive Web Design
 
 **Issues**
@@ -155,25 +155,29 @@
 - None
 
 ## Nguyen Huu Linh
+
 **Yesterday**
 
--- HTML:
+> **_HTML:_**
 
-* Semantic Html(100%)
-* Html Accessibility(60%)
-- CSS:
-* Flexbox(50%)
+- Semantic Html(100%)
+- Html Accessibility(60%)
 
-* Atomic CSS (taiwind CSS)(10%)
- **Today**
+> **_CSS:_**
 
-* Html Accessibility
-* Flexbox
-* Atomic CSS (taiwind CSS)
-* Responsive Web Design
-* Issues
+- Flexbox(50%)
+- Atomic CSS (taiwind CSS)(10%)
 
-- None
+**Today**
+
+- Html Accessibility
+- Flexbox
+- Atomic CSS (taiwind CSS)
+- Responsive Web Design
+
+- Issues
+
+* None
 
 ## Nguyen Thi My
 
@@ -191,6 +195,7 @@
 * Responsive Web Design (0)
 
   **Issues**
+
 - None
 
 **Today**
@@ -202,22 +207,24 @@
 
 - CSS:
 
-* Flexbox 
+* Flexbox
 * Atomic CSS
-* Responsive Web Design 
-
+* Responsive Web Design
 
 # Pham Tien Viet
 
 **Yesterday**
+
 - Html (80%)
 - CSS (60%)
 - Flexbox (80%)
 - Atomic CSS (50%)
 
   **Today**
+
 - Atomic CSS (Tailwind)
 - Responsive Web Design
 
   **Issues**
+
 - None
