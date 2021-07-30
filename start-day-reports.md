@@ -120,7 +120,7 @@
 - CSS:
 
 * Flexbox(35%)
-* Atomic CSS
+* Atomic CSS (Tham khảo thư viện Basscss, TailwindCSS)(50%)
 
 **Today**
 
@@ -132,4 +132,24 @@
 - CSS:
 
 * Flexbox
-* Atomic CSS
+* Atomic CSS (Tham khảo thư viện Basscss, TailwindCSS)
+
+# === DAILY REPORT 30/07 ===
+
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Atomic CSS (taiwind CSS) (20%)
+- Semantic Html (75%):
+- Html Accessibility (70%):
+- Flexbox (80%)
+
+**Today**
+
+- Atomic CSS (taiwind CSS)
+- Responsive Web Design
+
+**Issues**
+
+- None
