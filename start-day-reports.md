@@ -228,3 +228,21 @@
   **Issues**
 
 - None
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- HTML (80%)
+- CSS Flexbox (80%)
+- Atomic CSS (0)
+- Responsive Web Design (70%)
+
+**Today**
+
+- Atomic CSS (tailwind)
+- Responsive Web Design
+
+**Issues**
+
+- None
