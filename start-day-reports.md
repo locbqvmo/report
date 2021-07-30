@@ -206,3 +206,17 @@ None
 **Issues**
 
 - None
+
+# Pham Tien Viet
+
+**Yesterday**
+- Html (80%)
+- CSS (60%)
+- Flexbox (80%)
+- Atomic CSS (50%)
+
+  **Today**
+- Responsive Web Design
+
+  **Issues**
+- None
