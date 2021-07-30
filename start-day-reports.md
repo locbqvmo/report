@@ -190,6 +190,9 @@
 * Atomic CSS (25%)
 * Responsive Web Design (0)
 
+  **Issues**
+- None
+
 **Today**
 
 - HTML:
