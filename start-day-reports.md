@@ -189,6 +189,7 @@
 - Atomic CSS (50%)
 
   **Today**
+- Atomic CSS (Tailwind)
 - Responsive Web Design
 
   **Issues**
