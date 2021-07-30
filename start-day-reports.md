@@ -154,6 +154,27 @@
 
 - None
 
+## Nguyen Huu Linh
+**Yesterday**
+
+-- HTML:
+
+Semantic Html(100%)
+Html Accessibility(60%)
+CSS:
+-Flexbox(50%)
+
+Atomic CSS (taiwind CSS)(10%)
+ **Today**
+
+Html Accessibility
+Flexbox
+Atomic CSS (taiwind CSS)
+Responsive Web Design
+Issues
+
+None
+
 ## Nguyen Thi My
 
 **Yesterday**
