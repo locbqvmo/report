@@ -303,14 +303,14 @@
 
 **Yesterday**
 
-- Atomic CSS (70%) 
+- Atomic CSS (70%)
 - Responsive Web Design (70%)
 
 **Today**
 
 - Javascript:
-  * Scope & Closures
-  * this & Object prototypes
+  - Scope & Closures
+  - this & Object prototypes
 
 **Issues**
 
@@ -320,16 +320,37 @@
 
 **Yesterday**
 
-* Atomic CSS (75%)
-* Responsive Web Design (60%)
-- Practice degisn web cv
+- Atomic CSS (75%)
+- Responsive Web Design (60%)
+
+* Practice degisn web cv
 
   **Today**
 
-- Javascript:
-  * Scope & Closures
-  * this & Object prototypes
+* Javascript:
+
+  - Scope & Closures
+  - this & Object prototypes
 
   **Issues**
+
+* None
+
+# === DAILY REPORT 03/08 ===
+
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Scope & closures (20%)
+- this & Object Prototypes (30%)
+
+**Today**
+
+- Scope & closures
+- this & Object Prototypes
+- Types & Grammar
+
+**Issues**
 
 - None
