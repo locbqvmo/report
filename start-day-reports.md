@@ -298,3 +298,20 @@
 **Issues**
 
 - None
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- Atomic CSS (70%) 
+- Responsive Web Design (70%)
+
+**Today**
+
+- Javascript:
+  * Scope & Closures
+  * this & Object prototypes
+
+**Issues**
+
+- None
