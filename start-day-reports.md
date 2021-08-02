@@ -281,3 +281,20 @@
   **Issues**
 
 - None
+
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Practive web CV
+
+**Today**
+
+- Javascript
+  - Scope & Closures
+  - this & Object Prototypes
+  - Types & Grammar
+
+**Issues**
+
+- None
