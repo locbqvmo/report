@@ -315,3 +315,21 @@
 **Issues**
 
 - None
+
+# Nguyen Thi My
+
+**Yesterday**
+
+* Atomic CSS (75%)
+* Responsive Web Design (60%)
+- Practice degisn web cv
+
+  **Today**
+
+- Javascript:
+  * Scope & Closures
+  * this & Object prototypes
+
+  **Issues**
+
+- None
