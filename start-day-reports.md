@@ -246,3 +246,22 @@
 **Issues**
 
 - None
+
+# === DAILY REPORT 02/08 ===
+
+# Pham Tien Viet
+
+**Yesterday**
+
+- Responsive Web Design (50%)
+- Practice degisn web cv
+
+  **Today**
+
+- Html,CSS
+- Responsive Web Design
+- Get a new topic
+
+  **Issues**
+
+- None
