@@ -265,3 +265,19 @@
   **Issues**
 
 - None
+
+# Nguyen huu linh
+
+**Yesterday**
+
+- Responsive Web Design (90%)
+- Practice degisn web cv
+
+  **Today**
+
+- Responsive Web Design
+- Get a new topic
+
+  **Issues**
+
+- None
