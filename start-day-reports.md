@@ -347,7 +347,7 @@
 
 **Today**
 
-- Scope & closures (20%)
+- Scope & closures
 - this & Object Prototypes
 - Types & Grammar
 
