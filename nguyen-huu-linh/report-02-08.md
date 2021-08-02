@@ -65,4 +65,4 @@
 
 ## Issues
 
-- I have some difficulfy reading the documentation and there are some concepts i don't really understand.
+- I have some difficulfy reading the documentation and there are some concepts i don't really understand
