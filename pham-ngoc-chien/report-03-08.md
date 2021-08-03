@@ -4,7 +4,7 @@
 
 **Today**
 
-- Scope & closures (60%)
+- Scope & closures (70%)
 
   - Scope:
 
@@ -75,7 +75,7 @@
         console.log(couter1()) //(result: 3)
     ```
 
-- Object Prototypes (60%)
+- Object Prototypes (70%)
 
   - All JavaScript objects inherit properties and methods from a prototype.
 
