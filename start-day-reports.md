@@ -425,7 +425,7 @@
 
 **Yesterday**
 
-- Scope & closures (70%)
+- Scope & closures (60%)
 - Object Prototypes (70%)
 - Types & Grammar (70%)
 
