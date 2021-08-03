@@ -113,3 +113,18 @@
     }
 
 > - Prototype object is shared among all ther pbjects created using new
+
+> Ex :
+
+    function Mouse(color,weight){
+        this.type = 'mouse';
+        this.color = color;
+        this.weight = weight;
+    }
+    Mouse.prototype.sleep = function(){
+        console.log('Sleeping .....');
+    }
+
+    var jerry = new Mouse('orange',20);
+    var mickey = new Mouse('black',10);
+    console.log(jerry.sleep === mickey.sleep)
