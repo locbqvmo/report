@@ -370,3 +370,19 @@
 **Issues**
 
 -None
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- Scope (30%)
+- Clouser (30%)
+
+**Today**
+
+- Scope & Clouser
+- This & Object Prototypes
+
+**Issues**
+
+- None
