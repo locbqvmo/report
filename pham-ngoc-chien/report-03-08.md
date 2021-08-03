@@ -4,7 +4,7 @@
 
 **Today**
 
-- Scope & closures (70%)
+- Scope & closures (60%)
 
   - Scope:
 
