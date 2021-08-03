@@ -386,3 +386,18 @@
 **Issues**
 
 - None
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- Scope (30%)
+
+**Today**
+
+- Scope & Clouser
+- This & Object Prototypes
+
+**Issues**
+
+- I have some difficulfy reading the documentation and there are some concepts i don't really understand
