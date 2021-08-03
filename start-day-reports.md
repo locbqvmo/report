@@ -354,3 +354,19 @@
 **Issues**
 
 - None
+
+# Pham Tien Viet
+
+**Yesterday**
+
+- Scope & closures (40%)
+
+**Today**
+
+- Scope & closures
+- this & Object Prototypes
+- Types & Grammar
+
+**Issues**
+
+-None
