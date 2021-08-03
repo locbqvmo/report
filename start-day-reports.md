@@ -401,3 +401,21 @@
 **Issues**
 
 - I have some difficulfy reading the documentation and there are some concepts i don't really understand
+
+
+# Nguyen Thi My
+
+**Yesterday**
+
+- Scope & closures (40%)
+- this & Object Prototypes (25%)
+
+**Today**
+
+- Scope & closures
+- this & Object Prototypes
+- Types & Grammar
+
+**Issues**
+
+- None
