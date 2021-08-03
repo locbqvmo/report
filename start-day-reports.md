@@ -402,7 +402,6 @@
 
 - I have some difficulfy reading the documentation and there are some concepts i don't really understand
 
-
 # Nguyen Thi My
 
 **Yesterday**
@@ -415,6 +414,26 @@
 - Scope & closures
 - this & Object Prototypes
 - Types & Grammar
+
+**Issues**
+
+- None
+
+# === DAILY REPORT 04/08 ===
+
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Scope & closures (70%)
+- Object Prototypes (70%)
+- Types & Grammar (70%)
+
+**Today**
+
+- Async & Performmance
+- edit CV (header)
+- ES6 & Beyond
 
 **Issues**
 
