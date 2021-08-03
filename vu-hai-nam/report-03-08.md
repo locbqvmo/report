@@ -238,22 +238,22 @@
         console.log(b)          //Expected Output: {name: "Toyota"}
     ```
 
-    * With **let a = {name: 'Honda'}**: Create **a**, provide a data cell, store **{name: 'Honda'}** into a data cell, return the index and assign it to **a**
+    * With **let a = {name: 'Honda'}**: Create **a**, provide a data cell, store **{name: 'Honda'}** into a data cell, return the index and assign it to **a** :
 
         | Variable    | Value       | Index      | Data memory cell |
-        | ----------- | ----------- | ----------- |
+        | ----------- | ----------- | ----------- | ----------- |
         | a           | <#001>      | #001       | {name: 'Honda'}  |
 
     * With **let b = a**: Create **b**, point the **b** to index of **a** variable:
 
         | Variable    | Value       | Index      | Data memory cell |
-        | ----------- | ----------- | ----------- |
+        | ----------- | ----------- | ----------- | ----------- |
         | a           | <#001>      | #001       | {name: 'Honda'}  |
         | b           | <#001>      |            |                  |
 
     * With **a.name = 'Toyota'** that means change the value at data cell, because **b** variable pointed to index of **a** so the changing at **a** variable here is the same effect with **b** by the same index
 
         | Variable    | Value       | Index      | Data memory cell |
-        | ----------- | ----------- | ----------- |
+        | ----------- | ----------- | ----------- | ----------- |
         | a           | <#001>      | #001       | {name: 'Toyota'} |
         | b           | <#001>      |            |                  |
