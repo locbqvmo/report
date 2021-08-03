@@ -186,7 +186,7 @@
     - Basically, there are two types in Javascript: value types and reference type:
 
         | Value Types | Reference Types |
-        | ----------- | -----------     |
+        | ----------- | ----------- |
         | String      | Object          |
         | Number      | Array           |
         | Boolean     | Function        |
@@ -207,20 +207,20 @@
     With **let a = 1**, Javascript write command to create **a** variable then tell the memory in order to provide a data memory cell.
 
         | Variable    | Value       | Data memory cell |
-        | ----------- | ----------- | ---------------- |
+        | ----------- | ----------- | ----------- |
         | a           | 1           | 1                |
 
     With **let b = a**, Javascript write command to create **b** variable then provide another data memory cell and copy the **value of a**
 
         | Variable    | Value       | Data memory cell |
-        | ----------- | ----------- | ---------------- |
+        | ----------- | ----------- | ----------- |
         | a           | 1           | 1                |
         | b           | 1           | 1                |
 
     With **a = 2**, that means value and data memory cell **a** will change, and **b** is not:
 
         | Variable    | Value       | Data memory cell |
-        | ----------- | ----------- | ---------------- |
+        | ----------- | ----------- | ----------- |
         | a           | 2           | 2                |
         | b           | 1           | 1                |
 
@@ -240,19 +240,19 @@
 
     With **let a = {name: 'Honda'}**: Create **a**, provide a data cell, store **{name: 'Honda'}** into a data cell, return the index and assign it to **a**
         | Variable    | Value       | Index      | Data memory cell |
-        | ----------- | ----------- | ---------- | ---------------- |
+        | ----------- | ----------- | ----------- |
         | a           | <#001>      | #001       | {name: 'Honda'}  |
 
     With **let b = a**: Create **b**, point the **b** to index of **a** variable:
 
         | Variable    | Value       | Index      | Data memory cell |
-        | ----------- | ----------- | ---------- | ---------------- |
+        | ----------- | ----------- | ----------- |
         | a           | <#001>      | #001       | {name: 'Honda'}  |
         | b           | <#001>      |            |                  |
 
     With **a.name = 'Toyota'** that means change the value at data cell, because **b** variable pointed to index of **a** so the changing at **a** variable here is the same effect with **b** by the same index
 
         | Variable    | Value       | Index      | Data memory cell |
-        | ----------- | ----------- | ---------- | ---------------- |
+        | ----------- | ----------- | ----------- |
         | a           | <#001>      | #001       | {name: 'Toyota'} |
         | b           | <#001>      |            |                  |
