@@ -452,3 +452,20 @@
 
 **Issues**
 - Object Prototypes's applicability
+
+# Nguyen Thi My
+
+**Yesterday**
+
+- Scope & closures (70%)
+- Object Prototypes (70%)
+- Types & Grammar (70%)
+
+**Today**
+
+- Async & Performmance
+- ES6 & Beyond
+
+**Issues**
+
+- None
