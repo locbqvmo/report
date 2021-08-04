@@ -456,25 +456,6 @@
 
 - Object Prototypes's applicability
 
-# Nguyen Huu Linh
-
-**Yesterday**
-
-- Closures (80%)
-- This (30%)
-- Object Prototypes (30%)
-
-**Today**
-
-- This
-- Object Prototypes
-- Types & Grammar
-
-**Issues**
-
-- None
-- Object Prototypes's applicability
-
 # Vu Hai Nam
 
 **Yesterday**
@@ -488,6 +469,24 @@
 - This & Object Prototypes
 - ES6 & Beyond
 - Async perfomance
+
+**Issues**
+
+- None
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- Closures (80%)
+- This (30%)
+- Object Prototypes (30%)
+
+**Today**
+
+- This
+- Object Prototypes
+- Types & Grammar
 
 **Issues**
 
