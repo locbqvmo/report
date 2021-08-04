@@ -453,20 +453,34 @@
 **Issues**
 - Object Prototypes's applicability
 
-# Vu Hai Nam
+# Nguyen Thi My
 
+**Yesterday**
+
+- Scope & closures (70%)
+- Object Prototypes (70%)
+- Types & Grammar (70%)
+
+**Today**
+
+- Async & Performmance
+- ES6 & Beyond
+
+**Issues**
+
+- None
+
+# Vu Hai Nam
 **Yesterday**
 
 - Scope (80%%)
 - Clouser (80%)
 - Value types and Reference types
-
 **Today**
 
 - This & Object Prototypes
 - ES6 & Beyond
 - Async perfomance
-
 **Issues**
 
-- None
+None
