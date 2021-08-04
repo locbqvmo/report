@@ -439,20 +439,17 @@
 
 - None
 
-# Vu Hai Nam
+# Pham Tien Viet
 
 **Yesterday**
-
-- Scope (80%)
-- Clouser (80%)
-- Value Types and Reference Types (60%)
+- Scope (60%)
+- Closures (60%)
+- This (70%)
+- Object Prototypes (30%)
 
 **Today**
-
-- This & Object Prototypes
-- Async & Performance
-- ES6 & Beyond
+- Types & Grammar
 
 **Issues**
+- Object Prototypes's applicability
 
-- None
