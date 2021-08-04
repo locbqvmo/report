@@ -438,3 +438,17 @@
 **Issues**
 
 - None
+
+# Pham Tien Viet
+
+**Yesterday**
+- Scope (60%)
+- Closures (60%)
+- This (70%)
+- Object Prototypes (30%)
+
+**Today**
+- Types & Grammar
+
+**Issues**
+- Object Prototypes's applicability
