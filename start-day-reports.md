@@ -442,13 +442,34 @@
 # Pham Tien Viet
 
 **Yesterday**
+
 - Scope (60%)
 - Closures (60%)
 - This (70%)
 - Object Prototypes (30%)
 
 **Today**
+
 - Types & Grammar
 
 **Issues**
+
 - Object Prototypes's applicability
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- Closures (80%)
+- This (30%)
+- Object Prototypes (30%)
+
+**Today**
+
+- This
+- Object Prototypes
+- Types & Grammar
+
+**Issues**
+
+- None
