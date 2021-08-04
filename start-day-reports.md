@@ -453,3 +453,20 @@
 **Issues**
 - Object Prototypes's applicability
 
+# Vu Hai Nam
+
+**Yesterday**
+
+- Scope (80%%)
+- Clouser (80%)
+- Value types and Reference types
+
+**Today**
+
+- This & Object Prototypes
+- ES6 & Beyond
+- Async perfomance
+
+**Issues**
+
+- None
