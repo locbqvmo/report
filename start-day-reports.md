@@ -438,3 +438,21 @@
 **Issues**
 
 - None
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- Scope (80%)
+- Clouser (80%)
+- Value Types and Reference Types (60%)
+
+**Today**
+
+- This & Object Prototypes
+- Async & Performance
+- ES6 & Beyond
+
+**Issues**
+
+- None
