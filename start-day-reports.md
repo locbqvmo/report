@@ -506,3 +506,24 @@
 **Issues**
 
 - None
+
+# === DAILY REPORT 05/08 ===
+
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Async & Performmance (60%)
+- edit CV (30%)
+- ES6 & Beyond (50%)
+
+**Today**
+
+- Async & Performmance
+- Object Prototypes
+- ES6 & Beyond
+- edit CV
+
+**Issues**
+
+- None
