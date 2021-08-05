@@ -485,7 +485,8 @@
 - This & Object Prototypes
 - ES6 & Beyond
 - Async perfomance
-  **Issues**
+
+**Issues**
 
 - None
 
@@ -558,3 +559,20 @@
 **Issues**
 
 - None
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- Object Prototype (30%)
+- This keyword (50%)
+- Asynchronous (50%)
+
+**Today**
+
+- ES6
+- Asynchronous
+
+**Issues**
+
+- Still confused between Prototype Object and Prototype Property
