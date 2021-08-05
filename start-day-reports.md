@@ -543,3 +543,18 @@
 **Issues**
 
 - None
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- This & Object prototypes (50%)
+
+**Today**
+
+- Types & Grammar
+- Async & Performmance
+
+**Issues**
+
+- None
