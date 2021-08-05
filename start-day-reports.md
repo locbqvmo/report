@@ -589,7 +589,7 @@
 **Today**
 
 - Async & Performance
-  -ES6 & Beyond
+- ES6 & Beyond
 
 **Issues**
 
@@ -630,4 +630,20 @@
 **Issues**
 
 - None
+# Pham Tien Viet
 
+**Yesterday**
+
+- Scope & Closures (70%)
+- this & Object Prototypes (70%)
+- Types & Grammar (70%)
+- Async & Performance (30%)
+
+**Today**
+
+- Async & Performance
+- ES6 & Beyond
+
+**Issues**
+
+- None
