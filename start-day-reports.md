@@ -589,7 +589,27 @@
 **Today**
 
 - Async & Performance
- -ES6 & Beyond
+  -ES6 & Beyond
+
+**Issues**
+
+- None
+
+# === DAILY REPORT 06/08 ===
+
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Async & Performmance (60%)
+- edit CV (100%)
+- ES6 & Beyond (55%)
+
+**Today**
+
+- Async & Performmance(AJAX request)
+- ES6 & Beyond (Map, Set)
+- ES6 class
 
 **Issues**
 
