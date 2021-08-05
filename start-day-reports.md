@@ -576,3 +576,21 @@
 **Issues**
 
 - Still confused between Prototype Object and Prototype Property
+
+# Pham Tien Viet
+
+**Yesterday**
+
+- Scope & Closures (70%)
+- this & Object Prototypes (50%)
+- Types & Grammar (60%)
+- Async & Performance (10%)
+
+**Today**
+
+- Async & Performance
+ -ES6 & Beyond
+
+**Issues**
+
+- None
