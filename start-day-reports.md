@@ -527,3 +527,19 @@
 **Issues**
 
 - None
+
+# Nguyen Thi My
+
+**Yesterday**
+
+- Async & Performmance (30%)
+- ES6 & Beyond (30%)
+
+**Today**
+
+- Async & Performmance
+- ES6 & Beyond
+
+**Issues**
+
+- None
