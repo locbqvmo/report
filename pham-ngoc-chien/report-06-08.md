@@ -4,7 +4,7 @@
 
 **Today**
 
-- Async & Performmance
+- Async & Performmance (70%)
 
   - The yield keyword is used to pause and resume a generator function (function\* or legacy generator function).
 
@@ -53,49 +53,50 @@
 
     ```
 
-  - ES6 & Beyond
-    -Array.of() method creates a new Array instance from a variable number of arguments, regardless of number or type of the arguments.
+- ES6 & Beyond (70%)
 
-    ```
-        console.log(Array.of(7,1,2,3,2,1,3))
-        //result: [7,1,2,3,2,1,3]
-    ```
+  -Array.of() method creates a new Array instance from a variable number of arguments, regardless of number or type of the arguments.
 
-    - Array.from() method returns an Array object from any object with a length property or any iterable object
+  ```
+      console.log(Array.of(7,1,2,3,2,1,3))
+      //result: [7,1,2,3,2,1,3]
+  ```
 
-    ```
-        console.log(Array.from('boo'));
-        // result: Array ["b", "o", "o"]
+  - Array.from() method returns an Array object from any object with a length property or any iterable object
 
-        console.log(Array.from([1, 2, 3], x => x + x));
-        // result: Array [2, 4, 6]
-    ```
+  ```
+      console.log(Array.from('boo'));
+      // result: Array ["b", "o", "o"]
 
-    - find() method returns the value of the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, undefined is returned.
+      console.log(Array.from([1, 2, 3], x => x + x));
+      // result: Array [2, 4, 6]
+  ```
 
-    ```
-        const array1 = [5, 12, 8, 130, 44];
-        const found = array1.find(element => element > 10);
-        console.log(found);
-        // result: 12
-    ```
+  - find() method returns the value of the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, undefined is returned.
 
-    - The findIndex() method returns the index of the first element in the array that satisfies the provided testing function. Otherwise, it returns -1, indicating that no element passed the test.
+  ```
+      const array1 = [5, 12, 8, 130, 44];
+      const found = array1.find(element => element > 10);
+      console.log(found);
+      // result: 12
+  ```
 
-    ```
-        const numbers = [4, 9, 16, 25, 29];
-        let first = numbers.findIndex(myFunction);
-        function myFunction(value, index, array) {
-            return value > 18;
-        }
-    ```
+  - The findIndex() method returns the index of the first element in the array that satisfies the provided testing function. Otherwise, it returns -1, indicating that no element passed the test.
 
-    - Math
-      - Math.trunc(x) returns the integer part of x
-      - Math.sign(x) returns if x is negative, null or positive
-      - Math.cbrt(x) returns the cube root of x
-        Math.log2(x) returns the base 2 logarithm of x
-      - Math.log10(x) returns the base 10 logarithm of x
+  ```
+      const numbers = [4, 9, 16, 25, 29];
+      let first = numbers.findIndex(myFunction);
+      function myFunction(value, index, array) {
+          return value > 18;
+      }
+  ```
+
+  - Math
+    - Math.trunc(x) returns the integer part of x
+    - Math.sign(x) returns if x is negative, null or positive
+    - Math.cbrt(x) returns the cube root of x
+      Math.log2(x) returns the base 2 logarithm of x
+    - Math.log10(x) returns the base 10 logarithm of x
 
 **Issues**
 
