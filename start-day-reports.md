@@ -664,3 +664,20 @@
 **Issues**
 
 - None
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- ES6 (40%)
+- Asynchronous (40%)
+
+**Today**
+
+- ES6
+- Asynchronous
+- Common used methods in JS 
+
+**Issues**
+
+- None
