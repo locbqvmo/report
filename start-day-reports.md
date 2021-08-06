@@ -630,6 +630,7 @@
 **Issues**
 
 - None
+
 # Pham Tien Viet
 
 **Yesterday**
@@ -638,6 +639,22 @@
 - this & Object Prototypes (70%)
 - Types & Grammar (70%)
 - Async & Performance (30%)
+
+**Today**
+
+- Async & Performance
+- ES6 & Beyond
+
+**Issues**
+
+- None
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- Types & Grammar (50%)
+- Async & Performance (20%)
 
 **Today**
 
