@@ -607,8 +607,8 @@
 
 **Today**
 
-- Async & Performmance(AJAX request)
-- ES6 & Beyond (Map, Set)
+- Async & Performmance
+- ES6 & Beyond
 - ES6 class
 
 **Issues**
@@ -630,6 +630,7 @@
 **Issues**
 
 - None
+
 # Pham Tien Viet
 
 **Yesterday**
@@ -643,6 +644,69 @@
 
 - Async & Performance
 - ES6 & Beyond
+
+**Issues**
+
+- None
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- Types & Grammar (50%)
+- Async & Performance (20%)
+
+**Today**
+
+- Async & Performance
+- ES6 & Beyond
+
+**Issues**
+
+- None
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- ES6 (40%)
+- Asynchronous (40%)
+
+**Today**
+
+- ES6
+- Asynchronous
+- Common used methods in JS
+
+**Issues**
+
+- None
+
+# === DAILY REPORT 07/08 ===
+
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Async & Performmance (70%)
+- ES6 & Beyond (70%)
+
+**Today**
+
+- Functions with Array:
+  - map(), .forEach()
+  - sort(), .filter()
+  - concat(), .push(), .slice()
+  - reduce()
+- Functions Object:
+  - Object.assign()
+  - Object.keys(), Object.values(), Object.entries()
+- Debounce, Throttle
+- Event loop
+- requestAnimationFrame, cancelAnimationFrame
+- HTML dataset
+- Event bubbling/Event propagation
+- cookies, localStorage, sessionStorage
 
 **Issues**
 
