@@ -708,3 +708,20 @@
 **Issues**
 
 - None
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- ES6
+- Asynchronous
+- Common used methods in JS
+
+**Today**
+
+- Learning Basic React
+- useState, useCallback, useMemo, useEffect
+
+**Issues**
+
+- None
