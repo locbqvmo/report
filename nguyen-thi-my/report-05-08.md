@@ -26,7 +26,6 @@ const promise = new Promise((resolve, reject) => {
         return reject('True')
     }
 })
-
 promise
     .then(result => {
         console.log(result);
