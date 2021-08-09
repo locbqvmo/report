@@ -731,6 +731,7 @@
 **Issues**
 
 - None
+
 # Vu Hai Nam
 
 **Yesterday**
@@ -743,6 +744,23 @@
 
 - Learning Basic React
 - useState, useCallback, useMemo, useEffect
+
+**Issues**
+
+- None
+
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Async & Performmance (70%)
+- edit CV (100%)
+- ES6 & Beyond (70%)
+
+**Today**
+
+- Learning basic ReactJS
+- Hook (useState, useCallBack, useMemo, useEffect)
 
 **Issues**
 
