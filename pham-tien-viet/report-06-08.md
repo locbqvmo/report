@@ -174,3 +174,115 @@
             }
         }
 
+**fetch** : is method call Api for get data, Written based on the property of Promise
+
+        Ex :
+
+        file Js :
+        var postApi = "https://jsonplaceholder.typicode.com/posts"
+
+        fetch(postApi)
+        .then(function(response){
+            return response.json();
+        })
+
+        .then(function(posts){
+            var htmls = posts.map(function(post){
+            return `<li> 
+                    <h2> ${post.title} </h2>
+                    <p> ${post.body} </p>
+            </li>`;
+            })
+            var html = htmls.join('')
+            document.getElementById('post-block').innerHTML = html
+        })
+
+        file html: body :
+        <ul id = "post-block"></ul>
+
+**REST API** : REST stands for REpresentational State Transfer. This is a web standard based on the HTTP protocol. The main purpose of REST is to support resource access via HTTP protocol 
+
+> The job of a REST server is simply to provide access to resources, a REST client will use those access rights to obtain resources, all through the HTTP protocol. Resources are identified through the URI. REST uses 2 data formats, JSON and XML, but JSON is more popular 
+
+> REST Api : action definition, based on HTTP protocol . 
+> HTTP protocol provide methods to work with data 
+
+        Ex: 
+
+        POST : new data
+        GET : get data
+        PUT : fix data
+        DELETE : delete data
+
+**Template Literals** : use `` for data transmission
+
+        Ex:
+
+        const courseName = 'Javascript';
+        const description = `Course name : ${courseName}`
+
+**Default parameter values** : use to variable we know value's variable . 
+
+        Ex:
+
+        function logger(log,type = 'log'){
+            console[type](log);
+        }
+
+        logger('Message...')
+
+**Enhanced object literals** : 
+> - Defind key: value for object
+> - Defind method for object
+
+        Ex :
+
+        var name = 'Javacript';
+        var price = 1000;
+
+        var course = {
+            name,
+            price
+            getName(){
+                return name;
+            }
+        };
+        console.log(course) // course{name: 'Javacript',price = 1000 }
+        console.log(course,getName())
+
+**Destructuring** : 
+> - Destructuring Array : get elements in array 
+
+    Ex: 
+    var array = ['mot','hai','ba']
+    var [a,...rest] = array
+
+    console.log(a) // mot
+    console.log(rest) // ['hai','ba'] 
+
+> - Destructuring Object : 
+
+    Ex : 
+    var number = {
+        mot: 'mot'
+        hai: 'hai'
+        ba: 'ba'
+    }
+    var {mot,hai...rest} = number
+    console.log(mot,hai);// mot, hai
+    console.log(rest): // {ba}
+
+**Spread** : how to get the value inside object or array
+
+    Ex: 
+    var defaultConfig = {
+        api: 'abcxxyz',
+        apiVersion: 'v1',
+        other: 'ohter'
+    }   
+    var exerciseConfig = {
+        ...defaultConfig,
+        api:'xyzabc'
+    };
+    console.log(exerciseConfig);
+
