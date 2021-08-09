@@ -681,3 +681,30 @@
 **Issues**
 
 - None
+
+# === DAILY REPORT 06/08 ===
+
+# Pham Tien Viet
+
+**Yesterday**
+
+- Scope & Closures (70%)
+- this & Object Prototypes (70%)
+- Types & Grammar (70%)
+- Async & Performance (70%)
+- ES6 & Beyond (60%)
+
+**Today**
+
+- Function define with array
+- Function define with object
+- Debounce, Throttle
+- Event loop
+- requestAnimationFrame, cancelAnimationFrame
+- HTML dataset
+- Event bubbling/Event propagation
+- cookies, localStorage, sessionStorage
+
+**Issues**
+
+- None
