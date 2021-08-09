@@ -709,6 +709,28 @@
 
 - None
 
+## Nguyen Thi My
+
+**Yesterday**
+
+- Async & Performance (70%)
+- ES6 & Beyond (60%)
+- Function define with array(60%)
+- Function define with object(60%)
+
+**Today**
+
+- Debounce, Throttle
+- Event loop
+- requestAnimationFrame, cancelAnimationFrame
+- HTML dataset
+- Event bubbling/Event propagation
+- cookies, localStorage, sessionStorage
+- ReactJs
+
+**Issues**
+
+- None
 # Vu Hai Nam
 
 **Yesterday**
