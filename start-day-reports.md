@@ -765,3 +765,22 @@
 **Issues**
 
 - None
+
+# === DAILY REPORT 10/08 ===
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- JSX
+- Class Component
+- Props
+
+**Today**
+
+- State
+- Hook
+
+**Issues**
+
+- None
