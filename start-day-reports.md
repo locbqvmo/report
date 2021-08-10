@@ -765,3 +765,16 @@
 **Issues**
 
 - None
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- ES6
+
+**Today**
+
+- Learning Basic React
+- useState, useCallback, useMemo, useEffect
+
+**Issues**
