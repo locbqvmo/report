@@ -778,3 +778,37 @@
 - useState, useCallback, useMemo, useEffect
 
 **Issues**
+
+# === DAILY REPORT 10/08 ===
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- JSX
+- Class Component
+- Props
+
+**Today**
+
+- State
+- Hook
+
+**Issues**
+
+- None
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- React basic
+
+**Today**
+
+- React Hook
+- Do homework Basic
+
+**Issues**
+
+- None
