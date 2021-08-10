@@ -766,6 +766,19 @@
 
 - None
 
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- ES6
+
+**Today**
+
+- Learning Basic React
+- useState, useCallback, useMemo, useEffect
+
+**Issues**
+
 # === DAILY REPORT 10/08 ===
 
 # Vu Hai Nam
@@ -785,6 +798,17 @@
 
 - None
 
+# Vu Hai Nam
+
+**Yesterday**
+
+- React basic
+
+**Today**
+
+- React Hook
+- Do homework Basic
+
 # Pham Ngoc Chien
 
 **Yesterday**
@@ -797,6 +821,21 @@
 - Basic React
 - Hook
 - Components Counter
+
+**Issues**
+
+- None
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- React basic
+
+**Today**
+
+- React Hook
+- Do homework Basic
 
 **Issues**
 
