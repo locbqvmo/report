@@ -809,6 +809,34 @@
 - React Hook
 - Do homework Basic
 
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Basic React (50%)
+- Hook (40%)
+
+**Today**
+
+- Basic React
+- Hook
+- Components Counter
+
+**Issues**
+
+- None
+
+# Nguyen Huu Linh
+
+**Yesterday**
+
+- React basic
+
+**Today**
+
+- React Hook
+- Do homework Basic
+
 **Issues**
 
 - None
