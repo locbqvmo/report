@@ -784,3 +784,20 @@
 **Issues**
 
 - None
+
+# Pham Ngoc Chien
+
+**Yesterday**
+
+- Basic React (50%)
+- Hook (40%)
+
+**Today**
+
+- Basic React
+- Hook
+- Components Counter
+
+**Issues**
+
+- None
