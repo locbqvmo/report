@@ -840,3 +840,23 @@
 **Issues**
 
 - None
+
+# === DAILY REPORT 11/08 ===
+
+# Vu Hai Nam
+
+**Yesterday**
+
+- JSX
+- Props
+- State
+- Component
+
+**Today**
+
+- React Hook
+- Lifecycle Component
+
+**Issues**
+
+- None
