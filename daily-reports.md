@@ -12,3 +12,18 @@
 - Atomic CSS
   **Issues**
 - None
+
+# === DAILY REPORT 16/05 ===
+
+# Bui Quang Loc
+
+**Yesterday**
+
+- HTML (100%)
+- CSS (100%)
+  **Today**
+- Async/await
+- Promise
+- Atomic CSS
+  **Issues**
+- None
