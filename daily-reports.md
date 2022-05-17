@@ -34,11 +34,11 @@
 
 **Yesterday**
 
-- Javascipt (100%)
+- Javascipt: Scope & Closures 100%
 
   **Today**
 
-- Javascipt (100%)
+- Javascipt
 
   **Issues**
 
@@ -48,8 +48,7 @@
 
 **Yesterday**
 
--Javascript 100%
-
+-Javascript: Scope & Closures 100%
 **Today**
 
 - Javascipt
@@ -60,10 +59,12 @@
 
 **Yesterday**
 
--Javascript 100%
+-Javascript: Scope & Closures 100%
 
 **Today**
 
 - Javascript
+
   **Issues**
+
 - None
