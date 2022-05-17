@@ -34,7 +34,16 @@
 
 **Yesterday**
 
-- Javascipt 100%
+- Javascipt (100%)
+
+ **Today**
+
+- Javascipt (100%)
+
+ **Issues**
+
+- None
+
 # Doan Viet Tuan
 
 **Yesterday**
