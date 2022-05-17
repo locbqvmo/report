@@ -36,11 +36,11 @@
 
 - Javascipt (100%)
 
- **Today**
+  **Today**
 
 - Javascipt (100%)
 
- **Issues**
+  **Issues**
 
 - None
 
@@ -50,7 +50,20 @@
 
 -Javascript 100%
 
- **Today**
- - Javascipt
- **Issues**
+**Today**
+
+- Javascipt
+  **Issues**
+- None
+
+# Viet Minh Hieu
+
+**Yesterday**
+
+-Javascript 100%
+
+**Today**
+
+- Javascript
+  **Issues**
 - None
