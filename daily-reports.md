@@ -36,11 +36,11 @@
 
 - Javascipt: Scope & Closures 100%
 
- **Today**
+  **Today**
 
-- Javascipt 
+- Javascipt
 
- **Issues**
+  **Issues**
 
 - None
 
@@ -49,7 +49,22 @@
 **Yesterday**
 
 -Javascript: Scope & Closures 100%
- **Today**
- - Javascipt
- **Issues**
+**Today**
+
+- Javascipt
+  **Issues**
+- None
+
+# Viet Minh Hieu
+
+**Yesterday**
+
+-Javascript: Scope & Closures 100%
+
+**Today**
+
+- Javascript
+
+  **Issues**
+
 - None
