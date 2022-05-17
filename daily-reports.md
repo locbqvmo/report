@@ -34,11 +34,11 @@
 
 **Yesterday**
 
-- Javascipt (100%)
+- Javascipt: Scope & Closures 100%
 
  **Today**
 
-- Javascipt (100%)
+- Javascipt 
 
  **Issues**
 
