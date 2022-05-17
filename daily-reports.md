@@ -48,8 +48,7 @@
 
 **Yesterday**
 
--Javascript 100%
-
+-Javascript: Scope & Closures 100%
  **Today**
  - Javascipt
  **Issues**
