@@ -27,3 +27,11 @@
 - Atomic CSS
   **Issues**
 - None
+
+# === DAILY REPORT 17/05 ===
+
+# Doan Viet Tuan
+
+**Yesterday**
+
+-Javascript 100%
