@@ -30,6 +30,11 @@
 
 # === DAILY REPORT 17/05 ===
 
+# Nguyen Trung Duc
+
+**Yesterday**
+
+- Javascipt 100%
 # Doan Viet Tuan
 
 **Yesterday**
