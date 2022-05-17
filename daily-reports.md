@@ -27,3 +27,11 @@
 - Atomic CSS
   **Issues**
 - None
+
+# === DAILY REPORT 17/05 ===
+
+# Nguyen Trung Duc
+
+**Yesterday**
+
+- Javascipt 100%
