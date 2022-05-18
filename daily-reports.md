@@ -70,6 +70,7 @@
 - None
 
 # Phan Thi Quy
+
 **Yesterday**
 
 - None
@@ -79,6 +80,80 @@
 - Javascript
 
   **Issues**
+
+- None
+
+# === DAILY REPORT 18/05 ===
+
+# Nguyen Trung Duc
+
+**Yesterday**
+
+- This (70%)
+- Object Prototypes (50%)
+- Types (50%)
+- Grammar (60%)
+
+**Today**
+
+- Types
+- Grammar
+- Async
+- Performance
+
+**Issues**
+
+- None
+
+# Doan Viet Tuan
+
+**Yesterday**
+
+- Javascript (100%)
+  - This & Object prototypes
+  - Types & Grammar
+
+**Today**
+
+- Javascript
+  - Types & Grammar.
+  - Async & Performanc.
+
+# Viet Minh Hieu
+
+**Yesterday**
+
+- Javascript (80%)
+  - This & Object prototypes
+  - Types & Grammar
+
+**Today**
+
+- Javascript
+  - Types & Grammar.
+  - Async & Performanc.
+  * Types & Grammar.
+  * Async & Performanc.
+
+**Issues**
+
+- None
+
+# Ta Cong Duc
+
+**Yesterday**
+
+- Javascript (70%)
+  - This & Object prototypes
+  - Types & Grammar
+
+**Today**
+
+- Javascript
+  - Types & Grammar.
+  - Async & Performanc.
+
+**Issues**
 
 - None
 
