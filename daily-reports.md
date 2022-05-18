@@ -84,6 +84,25 @@
 
 # === DAILY REPORT 18/05 ===
 
+# Nguyen Trung Duc
+
+**Yesterday**
+
+- This (70%)
+- Object Prototypes (50%)
+- Types (50%)
+- Grammar (60%)
+
+**Today**
+
+- Types 
+- Grammar
+- Async 
+- Performance
+
+**Issues**
+
+- None
 # Doan Viet Tuan
 **Yesterday**
 - Javascript (100%)
