@@ -113,3 +113,20 @@
 - Javascript
   + Types & Grammar.
   + Async & Performanc.
+
+**Issues**
+- None
+
+# Ta Cong Duc
+**Yesterday**
+- Javascript (70%)
+  + This & Object prototypes
+  + Types & Grammar
+
+**Today**
+- Javascript
+  + Types & Grammar.
+  + Async & Performanc.
+
+**Issues**
+- None
