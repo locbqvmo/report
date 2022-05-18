@@ -81,3 +81,16 @@
   **Issues**
 
 - None
+
+# === DAILY REPORT 18/05 ===
+
+# Doan Viet Tuan
+**Yesterday**
+- Javascript (100%)
+  + This & Object prototypes
+  + Types & Grammar
+
+**Today**
+- Javascript
+  + Types & Grammar.
+  + Async & Performanc.
