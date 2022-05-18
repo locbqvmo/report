@@ -68,3 +68,47 @@
   **Issues**
 
 - None
+
+# Phan Thi Quy
+
+**Yesterday**
+
+- None
+
+**Today**
+
+- Javascript
+
+  **Issues**
+
+- None
+
+# === DAILY REPORT 18/05 ===
+
+# Doan Viet Tuan
+
+**Yesterday**
+
+- Javascript (100%)
+  - This & Object prototypes
+  - Types & Grammar
+
+**Today**
+
+- Javascript
+  - Types & Grammar.
+  - Async & Performanc.
+
+# Viet Minh Hieu
+
+**Yesterday**
+
+- Javascript (80%)
+  - This & Object prototypes
+  - Types & Grammar
+
+**Today**
+
+- Javascript
+  - Types & Grammar.
+  - Async & Performanc.
