@@ -70,6 +70,7 @@
 - None
 
 # Phan Thi Quy
+
 **Yesterday**
 
 - None
@@ -95,38 +96,63 @@
 
 **Today**
 
-- Types 
+- Types
 - Grammar
-- Async 
+- Async
 - Performance
 
 **Issues**
 
 - None
+
 # Doan Viet Tuan
+
 **Yesterday**
+
 - Javascript (100%)
-  + This & Object prototypes
-  + Types & Grammar
+  - This & Object prototypes
+  - Types & Grammar
 
 **Today**
+
 - Javascript
-  + Types & Grammar.
-  + Async & Performanc.
+  - Types & Grammar.
+  - Async & Performanc.
+
+# Viet Minh Hieu
+
+**Yesterday**
+
+- Javascript (80%)
+  - This & Object prototypes
+  - Types & Grammar
+
+**Today**
+
+- Javascript
+  - Types & Grammar.
+  - Async & Performanc.
+  * Types & Grammar.
+  * Async & Performanc.
 
 **Issues**
+
 - None
 
 # Ta Cong Duc
+
 **Yesterday**
+
 - Javascript (70%)
-  + This & Object prototypes
-  + Types & Grammar
+  - This & Object prototypes
+  - Types & Grammar
 
 **Today**
+
 - Javascript
-  + Types & Grammar.
-  + Async & Performanc.
+  - Types & Grammar.
+  - Async & Performanc.
 
 **Issues**
+
 - None
