@@ -218,6 +218,22 @@
 
 - None
 
+# Ta Cong Duc
+
+**Yesterday**
+
+  - Javascript
+    + Async & Performanc.
+
+**Today**
+
+  - ES6 & Beyond.
+  - Method with Array.
+  - Method with Object.
+
+**Issues**
+
+  - None
 # Viet Minh Hieu
 
 **Yesterday**
@@ -232,6 +248,6 @@
 - Method with Array.
 - Method with Object.
 
-  **Issues**
+**Issues**
 
 - None
