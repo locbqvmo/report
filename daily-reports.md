@@ -123,7 +123,6 @@
 
 - None
 
-
 # Viet Minh Hieu
 
 **Yesterday**
@@ -163,11 +162,12 @@
 - None
 
 # Phan Thi Quy
+
 **Yesterday**
+
 - Scope & closures (100%)
 - Cursor this & Object Prototypes (100%)
 - Types & Grammar (10%)
-
 
 **Today**
 
@@ -179,12 +179,34 @@
 
 # === DAILY REPORT 19/05 ===
 
+# Nguyen Trung Duc
+
+**Yesterday**
+
+- Types (60%)
+- Grammar (70%)
+- Async (50%)
+- Performance (30%)
+
+**Today**
+
+- ES6
+- Beyond
+- Common functions when working with Array
+- Debounce
+- Throttle
+
+**Issues**
+
+- None
+
 # Doan Viet Tuan
 
 **Yesterday**
 
 - Javascript (80%)
-  + Async & Performanc.
+
+  - Async & Performanc.
 
   **Today**
 
@@ -200,10 +222,27 @@
 
 **Yesterday**
 
-- Javascript
-  + Async & Performanc.
+  - Javascript
+    + Async & Performanc.
 
 **Today**
+
+  - ES6 & Beyond.
+  - Method with Array.
+  - Method with Object.
+
+**Issues**
+
+  - None
+# Viet Minh Hieu
+
+**Yesterday**
+
+- Javascript (80%)
+
+  - Async & Performanc.
+
+  **Today**
 
 - ES6 & Beyond.
 - Method with Array.
