@@ -179,6 +179,27 @@
 
 # === DAILY REPORT 19/05 ===
 
+# Nguyen Trung Duc
+
+**Yesterday**
+
+- Types (60%)
+- Grammar (70%)
+- Async (50%)
+- Performance (30%)
+
+**Today**
+
+- ES6
+- Beyond
+- Common functions when working with Array
+- Debounce
+- Throttle
+
+**Issues**
+
+- None
+
 # Doan Viet Tuan
 
 **Yesterday**
