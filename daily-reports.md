@@ -119,6 +119,11 @@
   - Types & Grammar.
   - Async & Performanc.
 
+**Issues**
+
+- None
+
+
 # Viet Minh Hieu
 
 **Yesterday**
@@ -195,6 +200,19 @@
 
 - None
 
+# Doan Viet Tuan
 
+**Yesterday**
 
+- Javascript (80%)
+  + Async & Performanc.
 
+  **Today**
+
+- ES6 & Beyond.
+- Method with Array.
+- Method with Object.
+
+  **Issues**
+
+- None
