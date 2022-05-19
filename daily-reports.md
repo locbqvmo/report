@@ -195,3 +195,20 @@
   **Issues**
 
 - None
+
+# Ta Cong Duc
+
+**Yesterday**
+
+- Javascript
+  + Async & Performanc.
+
+**Today**
+
+- ES6 & Beyond.
+- Method with Array.
+- Method with Object.
+
+**Issues**
+
+- None
