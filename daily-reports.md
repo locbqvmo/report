@@ -123,7 +123,6 @@
 
 - None
 
-
 # Viet Minh Hieu
 
 **Yesterday**
@@ -163,11 +162,12 @@
 - None
 
 # Phan Thi Quy
+
 **Yesterday**
+
 - Scope & closures (100%)
 - Cursor this & Object Prototypes (100%)
 - Types & Grammar (10%)
-
 
 **Today**
 
@@ -205,7 +205,26 @@
 **Yesterday**
 
 - Javascript (80%)
-  + Async & Performanc.
+
+  - Async & Performanc.
+
+  **Today**
+
+- ES6 & Beyond.
+- Method with Array.
+- Method with Object.
+
+  **Issues**
+
+- None
+
+# Viet Minh Hieu
+
+**Yesterday**
+
+- Javascript (80%)
+
+  - Async & Performanc.
 
   **Today**
 
