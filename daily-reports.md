@@ -251,3 +251,25 @@
 **Issues**
 
 - None
+
+# Phan Thị Quý
+
+**Yesterday**
+
+  - None
+
+  **Today**
+- This & Object Prototypes
+- Types & grammar
+- Async & Performance
+- ES6 & Beyond.
+- Method with Array.
+- Method with Object.
+- Event loop
+- RequestAnimationFrame, cancelAnimationFrame
+- HTML dataset
+- Event bubbling/Event propagation
+- cookies, localStorage, sessionStorage
+**Issues**
+
+- None
