@@ -218,24 +218,23 @@
 
 - None
 
-
-
 # Ta Cong Duc
 
 **Yesterday**
 
-  - Javascript
-    + Async & Performanc.
+- Javascript
+  - Async & Performanc.
 
 **Today**
 
-  - ES6 & Beyond.
-  - Method with Array.
-  - Method with Object.
+- ES6 & Beyond.
+- Method with Array.
+- Method with Object.
 
 **Issues**
 
-  - None
+- None
+
 # Viet Minh Hieu
 
 **Yesterday**
@@ -254,7 +253,6 @@
 
 - None
 
-
 # === DAILY REPORT 20/05 ===
 
 # Doan Viet Tuan
@@ -262,20 +260,42 @@
 **Yesterday**
 
 - Javascript (80%).
-  +  ES6 & Beyond.
-  + Commom method with Array & Object.
 
+  - ES6 & Beyond.
+  - Commom method with Array & Object.
 
-   **Today**
+    **Today**
 
-   - Event loop on javascript.
-   - requestAnimationFrame, cancelAnimationFrame.
-   - HTML dataset.
-   -  Event bubbling/Event propagation.
-   - cookies, localStorage, sessionStorage.
-   - JavaScript Algorithms and Data Structures.
+  * Event loop on javascript.
+  * requestAnimationFrame, cancelAnimationFrame.
+  * HTML dataset.
+  * Event bubbling/Event propagation.
+  * cookies, localStorage, sessionStorage.
+  * JavaScript Algorithms and Data Structures.
 
-   **Issues**
+  **Issues**
+
+  - None
+
+  # Viet Minh Hieu
+
+**Yesterday**
+
+- Javascript (80%).
+
+  - ES6 & Beyond.
+  - Common method with Array & Object.
+
+    **Today**
+
+  * Event loop on javascript.
+  * requestAnimationFrame, cancelAnimationFrame.
+  * HTML dataset.
+  * Event bubbling/Event propagation.
+  * cookies, localStorage, sessionStorage.
+  * JavaScript Algorithms and Data Structures.
+
+  **Issues**
 
    - None
 # Phan Thị Quý
@@ -299,3 +319,4 @@
 **Issues**
 
 - None
+  - The difference of Map, Set and Object
