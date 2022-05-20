@@ -218,6 +218,8 @@
 
 - None
 
+
+
 # Ta Cong Duc
 
 **Yesterday**
@@ -251,3 +253,28 @@
 **Issues**
 
 - None
+
+
+# === DAILY REPORT 20/05 ===
+
+# Doan Viet Tuan
+
+**Yesterday**
+
+- Javascript (80%).
+  +  ES6 & Beyond.
+  + Commom method with Array & Object.
+
+
+   **Today**
+
+   - Event loop on javascript.
+   - requestAnimationFrame, cancelAnimationFrame.
+   - HTML dataset.
+   -  Event bubbling/Event propagation.
+   - cookies, localStorage, sessionStorage.
+   - JavaScript Algorithms and Data Structures.
+
+   **Issues**
+
+   - None
