@@ -386,3 +386,21 @@
   **Issues**
 
 - None
+
+# Ta Cong Duc
+
+**Yesterday**
+
+- Javascript (80%).
+  - Even loop in javascript.
+  - HTML dataset
+  - Event bubbling/Event propagation
+  - cookies, localStorage, sessionStorage
+  - JavaScript Algorithms and Data Structures.
+
+  **Today**
+  - Review exercise HTML/CSS.
+
+  **Issues**
+
+- None
