@@ -320,3 +320,21 @@
 
 - None
   - The difference of Map, Set and Object
+
+# Phan Thị Quý
+
+**Yesterday**
+
+- This & Object Prototypes(100%)
+- Types & grammar(100%)
+- Async & Performance(50%)
+- ES6 & Beyond.(80%)
+- Event loop (100%)
+
+**Today**
+
+
+**Issues**
+
+- None
+  - The difference of Map, Set and Object
