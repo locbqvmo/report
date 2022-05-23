@@ -322,8 +322,6 @@
 
 - None
   - The difference of Map, Set and Object
-
-
 # === DAILY REPORT 23/05 ===
 
 # Doan Viet Tuan
@@ -402,5 +400,23 @@
   - Review exercise HTML/CSS.
 
   **Issues**
+
+- None
+
+
+# Phan Thị Quý
+
+**Yesterday**
+
+- This & Object Prototypes(100%)
+- Types & grammar(100%)
+- Async & Performance(50%)
+- ES6 & Beyond.(80%)
+- Event loop (100%)
+
+**Today**
+
+
+**Issues**
 
 - None
