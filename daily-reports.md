@@ -320,3 +320,25 @@
 
 - None
   - The difference of Map, Set and Object
+
+
+# === DAILY REPORT 20/05 ===
+
+# Doan Viet Tuan
+
+**Yesterday**
+
+- Javascript (80%).
+  - Even loop in javascript.
+  - requestAnimationFrame, cancelAnimationFrame
+  - HTML dataset
+  - Event bubbling/Event propagation
+  - cookies, localStorage, sessionStorage
+  - JavaScript Algorithms and Data Structures.
+
+  **Today**
+  - Review exercise HTML/CSS.
+
+  **Issues**
+
+- None
