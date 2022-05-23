@@ -297,14 +297,16 @@
 
   **Issues**
 
-   - None
+  - None
+
 # Phan Thị Quý
 
 **Yesterday**
 
-  - None
+- None
 
-  **Today**
+**Today**
+
 - This & Object Prototypes
 - Types & grammar
 - Async & Performance
@@ -316,10 +318,91 @@
 - HTML dataset
 - Event bubbling/Event propagation
 - cookies, localStorage, sessionStorage
-**Issues**
+  **Issues**
 
 - None
   - The difference of Map, Set and Object
+# === DAILY REPORT 23/05 ===
+
+# Doan Viet Tuan
+
+**Yesterday**
+
+- Javascript (80%).
+
+  - Even loop in javascript.
+  - requestAnimationFrame, cancelAnimationFrame
+  - HTML dataset
+  - Event bubbling/Event propagation
+  - cookies, localStorage, sessionStorage
+  - JavaScript Algorithms and Data Structures.
+
+  **Today**
+
+  - Review exercise HTML/CSS.
+
+  **Issues**
+
+- None
+
+# Viet Minh Hieu
+
+**Yesterday**
+
+- Javascript (80%).
+
+  - Even loop in javascript.
+  - requestAnimationFrame, cancelAnimationFrame
+  - HTML dataset
+  - Event bubbling/Event propagation
+  - cookies, localStorage, sessionStorage
+  - JavaScript Algorithms and Data Structures.
+
+  **Today**
+
+  - Review exercise HTML/CSS.
+
+  **Issues**
+
+- None
+
+# Nguyen Trung Duc
+
+**Yesterday**
+
+- Javascript (80%).
+  - Even loop in javascript.
+  - requestAnimationFrame, cancelAnimationFrame
+  - HTML dataset
+  - Event bubbling/Event propagation
+  - cookies, localStorage, sessionStorage
+  - JavaScript Algorithms and Data Structures.
+
+  **Today**
+  - Review exercise HTML/CSS.
+
+  **Issues**
+
+- None
+
+# Ta Cong Duc
+
+**Yesterday**
+
+- Javascript (80%).
+  - Even loop in javascript.
+  - HTML dataset
+  - Event bubbling/Event propagation
+  - cookies, localStorage, sessionStorage
+  - JavaScript Algorithms and Data Structures.
+
+  **Today**
+  - Review exercise HTML/CSS.
+
+  **Issues**
+
+- None
+
 
 # Phan Thị Quý
 
@@ -337,4 +420,3 @@
 **Issues**
 
 - None
-  - The difference of Map, Set and Object
